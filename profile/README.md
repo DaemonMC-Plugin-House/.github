@@ -1,6 +1,6 @@
 # DaemonMC Plugin House
 
-**Welcome to DaemonMC Plugin House! this is a repository made for plugins for [DameonMC Server Software](https://github.com/TeamDeamonMC/DaemonMC) **
+**Welcome to DaemonMC Plugin House! this is a repository made for plugins for [DameonMC Server Software](https://github.com/TeamDeamonMC/DaemonMC)**
 
 >[!Important]
 >Some Plugins on this Page might be outdated with v1 .NET8 Framework Make sure you update all plugins in **CSPROJ** to .NET10 or latest
